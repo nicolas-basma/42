@@ -1,5 +1,5 @@
-# 42School  
+# *42Málaga School*
 
-<p><img src="https://pbs.twimg.com/profile_images/1201525003147268097/Uzikrfvt_400x400.jpg" alt="42Malaga" width="300"/></p>
+<img src="https://pbs.twimg.com/profile_images/1201525003147268097/Uzikrfvt_400x400.jpg" alt="42Malaga" width="250"/>
 
-Repository of 42School
+> *This is a repository with all the projects I'm working on  at **42Málaga**.*
